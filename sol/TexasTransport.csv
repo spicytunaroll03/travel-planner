@@ -1,0 +1,9 @@
+origin,destination,type,price,duration
+Austin,Dallas,train,90,50
+Austin,Dallas,bus,20,300
+Austin,Houston,bus,5,300
+Austin,Houston,plane,500,1
+Houston,Dallas,train,700,10
+Houston,Dallas,bus,8,80
+Dallas,Austin,train,90,50
+Dallas,Austin,bus,20,300

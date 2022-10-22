@@ -1,0 +1,17 @@
+origin,destination,type,price,duration
+Busan,Jejudo,bus,1000,1000
+Busan,Ulsan,bus,5,300
+Busan,Ulsan,plane,500,1
+Daejeon,Seoul,train,90,50
+Daejeon,Seoul,bus,20,300
+Daejeon,Incheon,train,80,60
+Incheon,Jejudo,train,10,600
+Incheon,Seoul,plane,100,1
+Incheon,Daejeon,train,80,60
+Seoul,Busan,bus,100,180
+Seoul,Incheon,plane,100,1
+Seoul,Daejeon,train,90,50
+Seoul,Daejeon,bus,20,300
+Ulsan,Incheon,train,700,10
+Ulsan,Incheon,bus,8,80
+Ulsan,Busan,bus,5,1
